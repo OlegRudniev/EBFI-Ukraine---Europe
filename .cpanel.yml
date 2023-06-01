@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    -export DEPLOYPATH=/home/o118715/public_html/ebfi.co.uk
+    - /bin/cp -R * $DEPLOYPATH
