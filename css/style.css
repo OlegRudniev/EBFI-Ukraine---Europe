@@ -1,4 +1,13 @@
 /* /* Стили всплывающего окна по-умолчанию / */
+.logoEBFnew{
+
+    width: 300px !important;
+}
+
+.menucontacts{
+    font-size: 22px !important;
+}
+
 .pix-content{
     margin-top: 15px;
 }
