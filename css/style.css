@@ -12,3 +12,13 @@
     margin-top: 15px;
 }
 
+.expirience{
+    height: 260px;
+    width: 350px;
+}
+
+/* цвет фона на отдельной странице expirience.html */
+.bg-colour{
+background-color: black;
+}
+
