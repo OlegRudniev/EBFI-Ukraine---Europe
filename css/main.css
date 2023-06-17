@@ -592,8 +592,8 @@
     .pix-event-1 { background-image: linear-gradient(rgba(0,0,0, 0.6), rgba(0,0,0, 0.6)),url('../images/event/intro-bg.jpg');background-size: cover;background-attachment: fixed;background-position: center; }
 
     /* company */
-    .pix-company-1 { background-image: url('../images/company/intro-company-pattern.png');background-color: #363f48;background-size: cover;background-attachment: fixed;background-position: center; }
-    .pix-company-2 { background-image: url('../images/company/intro-company-pattern.png');background-color: #00c853;background-size: cover;background-attachment: scroll;background-position: center; }
+    .pix-company-1 { background-color: #363f48;background-size: cover;background-attachment: fixed;background-position: center; }
+    .pix-company-2 { background-color: #00c853;background-size: cover;background-attachment: scroll;background-position: center; }
 
     /* deal */
     .pix-deal-1 { background-image: url('../images/deal/intro-pattern.png');background-color: #f7941d;background-size: auto;background-attachment: scroll;background-position: center; }
