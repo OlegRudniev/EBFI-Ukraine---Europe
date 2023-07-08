@@ -22,3 +22,12 @@
 background-color: black;
 }
 
+.EBFIMap {
+    display: flex;
+    justify-content: center;
+    height: 900px !important;
+    width: 1450px !important;
+    margin-left: 50px;
+    margin-right: 0px;
+}
+
